@@ -20,7 +20,7 @@ A comprehensive Java-based Hotel Reservation Management System for Ocean View Re
 
 ### 3. Display Reservation Details
 - Search by reservation number
-- List all active reservations
+- Show all reservation details 
 - Complete booking information display
 
 ### 4. Calculate and Print Bill
